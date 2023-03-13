@@ -96,13 +96,13 @@ export const bwThemeDark = {
 
 export const blueThemeLight = {
     type: 'light',
-    primary: '#ecc19c',
+    primary: '#75e9e5',
     primary400: '#6e76c7',
     primary600: '#3644c9',
     primary80: '#545fc4cc',
     primary50: '#545fc480',
     primary30: '#545fc44d',
-    secondary: '#1e847f',
+    secondary: '#fffff',
     secondary70: '#eaeaeab3',
     secondary50: '#eaeaea80',
     tertiary: '#212121',

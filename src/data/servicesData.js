@@ -7,16 +7,22 @@ import CodeIcon from '@mui/icons-material/Code';
  
 
 export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
     {
-        id: 2,
+        id: 1,
         title: 'Programming',
         icon: <CodeIcon/> 
     },
+    {
+        id: 2,
+        title: 'Basketball and Volleyball',
+        icon: <BiShoppingBag/>
+    },
+    // {
+    //     id: 4,
+    //     title: 'Volleyball',
+    //     icon: <BiShoppingBag/>
+    // },
+    
     {
         id: 3,
         title: 'Email Marketing',
@@ -27,22 +33,22 @@ export const servicesData = [
     //     title: 'Internet Research',
     //     icon: <FaInternetExplorer />
     // },
-    // {
-    //     id: 5,
-    //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
-    // },
+    {
+        id: 5,
+        title: 'Tutoring',
+        icon: <FaChalkboardTeacher />
+    },
 
     {
         id: 6,
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
-    {
-        id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
+    // {
+    //     id: 7,
+    //     title: 'Photography',
+    //     icon: <FaCameraRetro />
+    // },
     // {
     //     id: 8,
     //     title: 'Pinterest Virtual Assistant',
@@ -58,21 +64,21 @@ export const servicesData = [
     //     title: 'Data Entry', 
     //     icon: <BsClipboardData />
     // },
-    {
-        id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
-    },
+    // {
+    //     id: 11,
+    //     title: 'Ebook Writing',
+    //     icon: <FaTabletAlt />
+    // },
     // {
     //     id: 12,
     //     title: 'Audio Transcription',
     //     icon: <AiFillAudio />
     // },
-    {
-        id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
-    },
+    // {
+    //     id: 13,
+    //     title: 'Blog Posting',
+    //     icon: <FaRegNewspaper />
+    // },
 
 ]
 

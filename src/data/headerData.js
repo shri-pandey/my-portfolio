@@ -1,10 +1,10 @@
-import resume from '../assets/pdf/resume.pdf'
-import dp from '../assets/abhi.jpg'
+import resume from '../assets/pdf/Ritika.pdf'
+import dp from '../assets/photo.jpg'
 
 export const headerData = {
-    name: 'Abhijit Singh',
+    name: 'Ritika Pandey',
     title: "Software Developer",
-    desciption:"An aspiring techno-geek seeking to tackle new challenges and build intelligent solutions to help make a dent in this world.",
+    desciption:"A curious mind who is always seeking to learn and apply new technologies in order to develop innovative solutions that have a positive impact on society and improve people's lives.",
     image: dp,
     resumePdf: resume
 }

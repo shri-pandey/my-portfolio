@@ -27,15 +27,15 @@ export const projectsData = [
         demo: '',
         image: "https://user-images.githubusercontent.com/103450664/219950460-2877fc82-efb1-4304-b18e-25993e3dacd4.PNG"
     },
-    {
-        id: 3,
-        projectName: ' Multiperson-text-editor',
-        projectDesc: 'The text editor, that is started when you edit a text, depends on the text group to which the text belongs.',
-        tags: ['React', 'Material UI', 'Express', "MongoDB","NodeJS",'HTML, CSS' , 'Javascript, EJS', ],
-        code: 'https://github.com/Abhijit-singh04/Multiperson-text-editor',
-        demo: '',
-        image: "https://user-images.githubusercontent.com/103450664/219951206-c0a46c95-1694-41db-98e1-742df80151f9.jpg"
-    },
+    // {
+    //     id: 3,
+    //     projectName: ' Multiperson-text-editor',
+    //     projectDesc: 'The text editor, that is started when you edit a text, depends on the text group to which the text belongs.',
+    //     tags: ['React', 'Material UI', 'Express', "MongoDB","NodeJS",'HTML, CSS' , 'Javascript, EJS', ],
+    //     code: 'https://github.com/Abhijit-singh04/Multiperson-text-editor',
+    //     demo: '',
+    //     image: "https://user-images.githubusercontent.com/103450664/219951206-c0a46c95-1694-41db-98e1-742df80151f9.jpg"
+    // },
     {
         id: 4,
         projectName: 'IMEI-verification',
@@ -54,15 +54,15 @@ export const projectsData = [
         demo: '',
         image: "https://user-images.githubusercontent.com/103450664/172528432-3fc31d9d-7192-4503-8296-63a026806b5b.PNG"
     },
-    // {
-    //     id: 6,
-    //     projectName: 'Stripe-Payment',
-    //     projectDesc: 'Stripe,s payments platform lets you accept credit cards, debit cards, and popular payment methods around the world—all with a single integration.',
-    //     tags: ['HTML', 'CSS', 'Javascript','Nodejs','EJS','Stripe.js'],
-    //     code: 'https://github.com/iamrituyadav/Reliance_digital',
-    //     demo: '',
-    //     image: "https://user-images.githubusercontent.com/103450664/172528432-3fc31d9d-7192-4503-8296-63a026806b5b.PNG"
-    // },
+    {
+        id: 6,
+        projectName: 'Steganography',
+        projectDesc: 'Image based Steganography using Python.An image that doesn’t seem to be hidden merely by glancing at it should be used to conceal the intended information. Data is encoded and decoded simultaneously',
+        tags: ['HTML', 'CSS', 'Javascript','Python'],
+        // code: 'https://github.com/iamrituyadav/Reliance_digital',
+        demo: '',
+        image: "https://cdn.codespeedy.com/wp-content/uploads/2021/04/Encryption_output.jpeg"
+    },
     // {
     //     id: 7,
     //     projectName: 'Stripe-Payment',

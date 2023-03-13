@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "Hello! My name is Abhijit Singh.",
-    description2: "I study computer science engineering for my bachelor's degree at the Army Institute of Technology. I'm a software engineer who's always looking for fresh approaches to common issues. I adore team projects. I've previously finished a couple internships as well. I've already contributed to more than a dozen projects and helped manage one project for a dependable client of the business. I have a deep understanding of what it takes to manage an effective project.",
+    description1: "Hello! My name is Ritika Pandey.",
+    description2: "I enjoy finding technological solutions, thus I spend the most of my time coding and creating projects to keep myself entertained.  I'm now adrift in the web development field. I 'm active pupil in competitive programming and have knowledge in Data Structure and Algorithm. Also a 5⭐ coder on Hacker Rank and I have solved more than 900 problems. I also enjoy reading and dancing.",
     image: 2
 }

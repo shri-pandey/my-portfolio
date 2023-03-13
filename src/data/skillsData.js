@@ -18,10 +18,11 @@
     'CSS',
     'React',
     'Figma',
-    'Typescript',
     'Python',
     'Bootstrap',
     'Firebase',
+    'Data Structure and Algorithms', 
+    'Object Oriented Programming'
 ]
 /* 
     HTML

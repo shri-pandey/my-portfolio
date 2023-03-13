@@ -1,10 +1,10 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Across The GLobe',
-        jobtitle: 'Software developer',
+        company: 'Microsoft Codess Cafe',
+        jobtitle: 'Mentor',
         startYear: '[MAY-2022]',
-        endYear: '[JULY-2020]'
+        endYear: 'Present'
     },
     
 ]

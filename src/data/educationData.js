@@ -3,26 +3,26 @@ export const educationData = [
     {
         id: 1,
         institution: 'Army Institute of Technology, Pune',
-        course: 'Bachelor of Engineering (Computer Science)',
+        course: 'Bachelor of Engineering (Computer Engineering)',
         startYear: '2020',
         endYear: 'Present',
-        Grade: 9.5 
+        Grade: 8.80 
     },
     {
         id: 2,
-        institution: 'Central Public School, Kota',
-        course: 'Senior Secondary School',
+        institution: 'Kendriya Vidyalaya No-1 Military Cantt Jodhpur',
+        course: 'Higher Secondary School',
         startYear: '2018',
-        endYear: '2020',
-        Grade: 8.4 
+        endYear: '2019',
+        Grade: 9.60
     },
     {
         id: 3,
-        institution: 'Army Public School Khadakwasla, Pune',
-        course: 'Secondary School',
+        institution: 'Kendriya Vidyalaya No-1 Military Cantt Jodhpur',
+        course: 'Senior Secondary School',
         startYear: '2017',
         endYear: '2018',
-        Grade: 9.2 
+        Grade: 10 
     },
    
 ]

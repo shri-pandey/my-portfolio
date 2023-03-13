@@ -1,14 +1,14 @@
 export const socialsData = {
-    github: 'https://github.com/Abhijit-singh04',
+    github: 'https://github.com/shri-pandey',
     facebook: '',
-    linkedIn: 'https://www.linkedin.com/in/abhijit-singh-b19089224',
-    instagram: 'https://www.instagram.com/abhijitsingh____/',
+    linkedIn: 'https://www.linkedin.com/in/ritika-pandey-530378201/',
+    instagram: 'https://www.instagram.com/ritika_pandey_007/',
     codepen: '',
-    twitter: '',
+    leetcode: 'https://leetcode.com/Ritika_Pandey/',
     reddit: '',
     blogger: '',
     medium: '',
     stackOverflow: '',
     gitlab: '',
-    youtube: 'https://www.youtube.com/@imsingage'
+    youtube: ''
 }
