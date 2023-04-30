@@ -14,7 +14,7 @@ export const projectsData = [
         projectName: 'Facial Recognition Face-Attendence',
         projectDesc: 'Face-Attendence is a face acknowledgment participation framework that utilizations Google Calendar to plan occasions.Google Calendar API is utilized in FaceID to get occasions from a client Google Calendar and concentrate date, time and name from the occasions clients set in their schedule.',
         tags: ['HTML, CSS' , 'Javascript, EJS',  'Nodejs, MYsql', 'Google api', 'face-api',  ],
-        code: 'https://github.com/Abhijit-singh04/Face-Attendence',
+        code: 'https://github.com/shri-pandey/MS_Project',
         demo: '',
         image: "https://user-images.githubusercontent.com/103450664/170869619-27e5d5dd-dd97-4c29-902d-5900acd51862.jpg"
     },
@@ -27,21 +27,21 @@ export const projectsData = [
         demo: '',
         image: "https://user-images.githubusercontent.com/103450664/219950460-2877fc82-efb1-4304-b18e-25993e3dacd4.PNG"
     },
-    // {
-    //     id: 3,
-    //     projectName: ' Multiperson-text-editor',
-    //     projectDesc: 'The text editor, that is started when you edit a text, depends on the text group to which the text belongs.',
-    //     tags: ['React', 'Material UI', 'Express', "MongoDB","NodeJS",'HTML, CSS' , 'Javascript, EJS', ],
-    //     code: 'https://github.com/Abhijit-singh04/Multiperson-text-editor',
-    //     demo: '',
-    //     image: "https://user-images.githubusercontent.com/103450664/219951206-c0a46c95-1694-41db-98e1-742df80151f9.jpg"
-    // },
+    {
+        id: 3,
+        projectName: ' Public Money Lending',
+        projectDesc: '•	The peer-to-peer money lending web-app developed will allow secure payment processing for borrowers to connect with lenders directly.',
+        tags: ['PHP', 'MySQL', 'HTML, CSS' , 'Javascript'],
+        code: 'https://github.com/shri-pandey/public-money-lending',
+        demo: '',
+        image: "https://raw.githubusercontent.com/shri-pandey/public-money-lending/master/img/webste.png"
+    },
     {
         id: 4,
         projectName: 'IMEI-verification',
         projectDesc: 'Enter your 15 digit IMEI number to verify whether it is valid or not.',
         tags: ['HTML','Nodejs','EJS', 'CSS', 'Javascript', 'Node.js'],
-        code: 'https://github.com/Abhijit-singh04/IMEI-verification',
+        code: '',
         demo: '',
         image: "https://user-images.githubusercontent.com/103450664/179497172-08b54963-cc75-4a12-b5d9-58b9bf652ce0.PNG"
     },
@@ -50,7 +50,7 @@ export const projectsData = [
         projectName: 'Stripe-Payment',
         projectDesc: 'Stripe,s payments platform lets you accept credit cards, debit cards, and popular payment methods around the world—all with a single integration.',
         tags: ['HTML', 'CSS', 'Javascript','Nodejs','EJS','Stripe.js'],
-        code: 'https://github.com/iamrituyadav/Reliance_digital',
+        code: '',
         demo: '',
         image: "https://user-images.githubusercontent.com/103450664/172528432-3fc31d9d-7192-4503-8296-63a026806b5b.PNG"
     },
